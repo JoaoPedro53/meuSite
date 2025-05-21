@@ -5,7 +5,7 @@
   }
   
   body {
-    background-color: white;
+    background-color:rgb(212, 212, 212);
     color: black;
     font-family: Arial, sans-serif;
   }
@@ -21,7 +21,7 @@
     font-size: 2rem;
     margin-bottom: 20px;
     text-align: center;
-    color: cadetblue;
+    color:rgb(88, 88, 88);
   }
   
   .foto-container {
@@ -35,7 +35,7 @@
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
-    border: 2px solid #ccc;
+    border: 3px solid #e0e0e0;
   }
   
   .links {
@@ -48,7 +48,7 @@
   
   .link-btn {
     background-color: #e0e0e0;
-    color: black;
+    color:rgb(88, 88, 88);
     text-decoration: none;
     padding: 12px;
     text-align: center;
